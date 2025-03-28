@@ -1,0 +1,33 @@
+<!DOCTYPE html
+<html>
+<head>
+    <title>Surya Prakash- Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Surya Prakash</h1>
+    <p>Contact: Surya prakash@example.com | 9342858809</p>
+    <h2>Summary</h2>
+    <p>Highly motivated web developer with 5+ years of experience.</p>
+    <h2>Experience</h2>
+    <ul>
+        <li>
+            <h3>Web Developer</h3>
+            <p>ABC Company, 2020-Present</p>
+            <p>Developed multiple websites using HTML, CSS, and JavaScript.</p>
+        </li>
+    </ul>
+    <h2>Education</h2>
+    <ul>
+        <li>
+            <h3>Bachelor's Degree in Computer Science</h3>
+            <p>Bharathiyar University, 2023-2026</p>
+        </li>
+    </ul>
+</body>
+</html>
+`
